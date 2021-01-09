@@ -1,0 +1,22 @@
+{{ if .Get "src" }}
+  {{ if $.Page.Params.image_folder }}
+    <img 
+      src="{{ $.Page.Params.image_folder | safeURL}}/{{ .Get "src" | safeURL }}" 
+      
+      {{ with .Get "alt" }} 
+      alt="{{ . | plainify }}" 
+      {{ end }} 
+      
+      {{ with .Get "width" }} 
+      width="{{ . }}" 
+      {{ end }}   
+
+      class="{{ with .Get "position"}}{{ . }}{{ else -}} left {{- end }}" 
+      
+      style="{{ .Get "style" | safeCSS}}; image-rendering: pixelated; image-rendering: -moz-crisp-edges;" 
+    
+    />
+  {{ end }}
+{{ end }}
+
+
