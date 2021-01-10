@@ -1,0 +1,16 @@
+img[src$="#width_small"] {
+  width: 50px;
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+}
+
+img[src$="#width_medium"] {
+  width: 150px;
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+}
+
+tr:nth-child(even) {background: rgb(51 49 64)}
+/* tr:nth-child(odd) {background: #FFF} */
+
+

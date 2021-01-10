@@ -38,6 +38,9 @@ publishDir = "public"
   # it's set to `true` by default
   # oneHeadingSize = false
 
+  custom_css = ["css/flowi.css"]
+
+
 [params.twitter]
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
@@ -72,3 +75,23 @@ publishDir = "public"
       #   identifier = "showcase"
       #   name = "Showcase"
       #   url = "/showcase"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
