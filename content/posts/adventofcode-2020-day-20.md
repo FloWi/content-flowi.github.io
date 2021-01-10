@@ -1,6 +1,6 @@
 +++
 title = "Adventofcode 2020 Day 20"
-date = "2021-01-09T22:26:37+01:00"
+date = "2021-01-02T22:26:37+01:00"
 author = ""
 authorTwitter = "flowi" #do not include @
 cover = ""
@@ -9,6 +9,8 @@ keywords = ["", ""]
 description = "The task is to assemble an image from different 10x10 tiles. The tiles themselves can be flipped and rotated."
 showFullContent = false
 image_folder = "/adventofcode/2020/day20/"
+aliases = [ "/adventofcode/2020/day20" ] # alias must not end with a /
+
 +++
 
 # day 20
