@@ -10,7 +10,13 @@ img[src$="#width_medium"] {
   image-rendering: -moz-crisp-edges;
 }
 
-tr:nth-child(even) {background: rgb(51 49 64)}
+tr:nth-child(even) {
+  background: rgb(51 49 64);
+}
 /* tr:nth-child(odd) {background: #FFF} */
 
-
+table {
+  table-layout: fixed;
+  width: auto;
+  /* overflow-x: scroll; */
+}
