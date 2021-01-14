@@ -233,26 +233,26 @@ If you count the number of matching tiles for each tile, you can determine their
 
 The tiles with only two matching tiles must be the corners of the picture. Thankfully, Erik designed the puzzle in a way that this property holds.
 
-| tile id | number of matches | matching tiles      |
-| ------- | ----------------- | ------------------- |
-| 1171    | 2                 | 1489,2473           |
-| 1427    | 4                 | 1489,2311,2473,2729 |
-| 1489    | 3                 | 1171,1427,2971      |
-| 1951    | 2                 | 2311,2729           |
-| 2311    | 3                 | 1427,1951,3079      |
-| 2473    | 3                 | 1171,1427,3079      |
-| 2729    | 3                 | 1427,1951,2971      |
-| 2971    | 2                 | 1489,2729           |
-| 3079    | 2                 | 2311,2473           |
+| tile id | matching tiles      | number of matches |
+| ------- | ------------------- | ----------------- |
+| 1171    | 1489,2473           | 2                 |
+| 1427    | 1489,2311,2473,2729 | 4                 |
+| 1489    | 1171,1427,2971      | 3                 |
+| 1951    | 2311,2729           | 2                 |
+| 2311    | 1427,1951,3079      | 3                 |
+| 2473    | 1171,1427,3079      | 3                 |
+| 2729    | 1427,1951,2971      | 3                 |
+| 2971    | 1489,2729           | 2                 |
+| 3079    | 2311,2473           | 2                 |
 
 So, our corners are these tiles.
 
-| tile id | matching tiles |
-| ------- | -------------- |
-| 1171    | 1489,2473      |
-| 1951    | 2311,2729      |
-| 2971    | 1489,2729      |
-| 3079    | 2311,2473      |
+| tile id | matching tiles | number of matches |
+| ------- | -------------- | ----------------- |
+| 1171    | 1489,2473      | 2                 |
+| 1951    | 2311,2729      | 2                 |
+| 2971    | 1489,2729      | 2                 |
+| 3079    | 2311,2473      | 2                 |
 
 ## assembling the picture
 
