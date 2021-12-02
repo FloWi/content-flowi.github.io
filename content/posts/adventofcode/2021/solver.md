@@ -13,4 +13,4 @@ showFullContent = false
 
 This year I tried to solve the codingchallenge more visual to begin with. So I opted for scalajs using outwatch.
 
-[here's my link](/adventofcode/2021/solver)
+[AoC 20201 scalajs solver](/adventofcode/2021/solver)
