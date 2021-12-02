@@ -1,0 +1,249 @@
+{
+  "path": ".",
+  "name": ".",
+  "children": [
+    {
+      "path": ".gitignore",
+      "name": ".gitignore",
+      "size": 13,
+      "type": "file",
+      "extension": ""
+    },
+    {
+      "path": "day-01",
+      "name": "day-01",
+      "children": [
+        {
+          "path": "day-01/input.txt",
+          "name": "input.txt",
+          "size": 9831,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-01/test1",
+          "name": "test1",
+          "children": [
+            {
+              "path": "day-01/test1/input.txt",
+              "name": "input.txt",
+              "size": 40,
+              "type": "file",
+              "extension": ".txt"
+            }
+          ],
+          "size": 40,
+          "type": "directory"
+        }
+      ],
+      "size": 9871,
+      "type": "directory"
+    },
+    {
+      "path": "day-02",
+      "name": "day-02",
+      "children": [
+        {
+          "path": "day-02/real.txt",
+          "name": "real.txt",
+          "size": 7910,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-02/test.txt",
+          "name": "test.txt",
+          "size": 48,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 7958,
+      "type": "directory"
+    },
+    {
+      "path": "day-03",
+      "name": "day-03",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-04",
+      "name": "day-04",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-05",
+      "name": "day-05",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-06",
+      "name": "day-06",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-07",
+      "name": "day-07",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-08",
+      "name": "day-08",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-09",
+      "name": "day-09",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-10",
+      "name": "day-10",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-11",
+      "name": "day-11",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-12",
+      "name": "day-12",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-13",
+      "name": "day-13",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-14",
+      "name": "day-14",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-15",
+      "name": "day-15",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-16",
+      "name": "day-16",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-17",
+      "name": "day-17",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-18",
+      "name": "day-18",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-19",
+      "name": "day-19",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-20",
+      "name": "day-20",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-21",
+      "name": "day-21",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-22",
+      "name": "day-22",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-23",
+      "name": "day-23",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "day-24",
+      "name": "day-24",
+      "children": [],
+      "size": 0,
+      "type": "directory"
+    },
+    {
+      "path": "index.js",
+      "name": "index.js",
+      "size": 196,
+      "type": "file",
+      "extension": ".js"
+    },
+    {
+      "path": "listing.json",
+      "name": "listing.json",
+      "size": 0,
+      "type": "file",
+      "extension": ".json"
+    },
+    {
+      "path": "package-lock.json",
+      "name": "package-lock.json",
+      "size": 883,
+      "type": "file",
+      "extension": ".json"
+    },
+    {
+      "path": "package.json",
+      "name": "package.json",
+      "size": 275,
+      "type": "file",
+      "extension": ".json"
+    }
+  ],
+  "size": 19196,
+  "type": "directory"
+}
