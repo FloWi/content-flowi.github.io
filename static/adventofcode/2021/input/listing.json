@@ -64,15 +64,45 @@
     {
       "path": "day-03",
       "name": "day-03",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-03/real.txt",
+          "name": "real.txt",
+          "size": 13000,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-03/test.txt",
+          "name": "test.txt",
+          "size": 72,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 13072,
       "type": "directory"
     },
     {
       "path": "day-04",
       "name": "day-04",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-04/real.txt",
+          "name": "real.txt",
+          "size": 7890,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-04/test.txt",
+          "name": "test.txt",
+          "size": 299,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 8189,
       "type": "directory"
     },
     {
@@ -216,34 +246,13 @@
       "type": "directory"
     },
     {
-      "path": "index.js",
-      "name": "index.js",
-      "size": 196,
-      "type": "file",
-      "extension": ".js"
-    },
-    {
       "path": "listing.json",
       "name": "listing.json",
       "size": 0,
       "type": "file",
       "extension": ".json"
-    },
-    {
-      "path": "package-lock.json",
-      "name": "package-lock.json",
-      "size": 883,
-      "type": "file",
-      "extension": ".json"
-    },
-    {
-      "path": "package.json",
-      "name": "package.json",
-      "size": 275,
-      "type": "file",
-      "extension": ".json"
     }
   ],
-  "size": 19196,
+  "size": 39103,
   "type": "directory"
 }
