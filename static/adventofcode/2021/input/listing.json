@@ -130,7 +130,22 @@
     {
       "path": "day-06",
       "name": "day-06",
-      "children": [],
+      "children": [
+        {
+          "path": "day-06/real.txt",
+          "name": "real.txt",
+          "size": 0,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-06/test.txt",
+          "name": "test.txt",
+          "size": 0,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
       "size": 0,
       "type": "directory"
     },
