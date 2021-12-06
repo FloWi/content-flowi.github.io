@@ -6,7 +6,7 @@ authorTwitter = "flowi" #do not include @
 cover = ""
 tags = ["adventofcode", "adventofcode-2021", "scala", "scala-js", "outwatch", "coding-challenge"]
 keywords = ["", ""]
-description = "The task is to assemble an image from different 10x10 tiles. The tiles themselves can be flipped and rotated."
+description = "This year I tried to solve the codingchallenge more visual to begin with. So I opted for scalajs using outwatch."
 showFullContent = false
 
 +++
