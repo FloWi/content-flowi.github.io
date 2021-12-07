@@ -134,26 +134,41 @@
         {
           "path": "day-06/real.txt",
           "name": "real.txt",
-          "size": 0,
+          "size": 600,
           "type": "file",
           "extension": ".txt"
         },
         {
           "path": "day-06/test.txt",
           "name": "test.txt",
-          "size": 0,
+          "size": 10,
           "type": "file",
           "extension": ".txt"
         }
       ],
-      "size": 0,
+      "size": 610,
       "type": "directory"
     },
     {
       "path": "day-07",
       "name": "day-07",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-07/real.txt",
+          "name": "real.txt",
+          "size": 0,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-07/test.txt",
+          "name": "test.txt",
+          "size": 22,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 22,
       "type": "directory"
     },
     {
@@ -283,6 +298,6 @@
       "extension": ".json"
     }
   ],
-  "size": 48468,
+  "size": 49100,
   "type": "directory"
 }
