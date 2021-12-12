@@ -178,34 +178,12 @@
         {
           "path": "day-08/real.txt",
           "name": "real.txt",
-          "size": 10100,
-          "type": "file",
-          "extension": ".txt"
-        },
-        {
-          "path": "day-08/test.txt",
-          "name": "test.txt",
-          "size": 55,
-          "type": "file",
-          "extension": ".txt"
-        }
-      ],
-      "size": 10155,
-      "type": "directory"
-    },
-    {
-      "path": "day-09",
-      "name": "day-09",
-      "children": [
-        {
-          "path": "day-09/real.txt",
-          "name": "real.txt",
           "size": 16691,
           "type": "file",
           "extension": ".txt"
         },
         {
-          "path": "day-09/test.txt",
+          "path": "day-08/test.txt",
           "name": "test.txt",
           "size": 902,
           "type": "file",
@@ -216,24 +194,105 @@
       "type": "directory"
     },
     {
+      "path": "day-09",
+      "name": "day-09",
+      "children": [
+        {
+          "path": "day-09/real.txt",
+          "name": "real.txt",
+          "size": 10100,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-09/test.txt",
+          "name": "test.txt",
+          "size": 55,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 10155,
+      "type": "directory"
+    },
+    {
       "path": "day-10",
       "name": "day-10",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-10/real.txt",
+          "name": "real.txt",
+          "size": 9472,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-10/test.txt",
+          "name": "test.txt",
+          "size": 239,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 9711,
       "type": "directory"
     },
     {
       "path": "day-11",
       "name": "day-11",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-11/real.txt",
+          "name": "real.txt",
+          "size": 110,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-11/test.txt",
+          "name": "test.txt",
+          "size": 110,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 220,
       "type": "directory"
     },
     {
       "path": "day-12",
       "name": "day-12",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-12/real.txt",
+          "name": "real.txt",
+          "size": 144,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-12/test-10-paths.txt",
+          "name": "test-10-paths.txt",
+          "size": 40,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-12/test-19-paths.txt",
+          "name": "test-19-paths.txt",
+          "size": 71,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-12/test-226-paths.txt",
+          "name": "test-226-paths.txt",
+          "size": 119,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 374,
       "type": "directory"
     },
     {
@@ -328,6 +387,6 @@
       "extension": ".json"
     }
   ],
-  "size": 80688,
+  "size": 90993,
   "type": "directory"
 }
