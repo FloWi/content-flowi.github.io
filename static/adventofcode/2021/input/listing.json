@@ -309,33 +309,120 @@
         {
           "path": "day-13/test.txt",
           "name": "test.txt",
-          "size": 0,
+          "size": 115,
           "type": "file",
           "extension": ".txt"
         }
       ],
-      "size": 6797,
+      "size": 6912,
       "type": "directory"
     },
     {
       "path": "day-14",
       "name": "day-14",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-14/real.txt",
+          "name": "real.txt",
+          "size": 822,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-14/test.txt",
+          "name": "test.txt",
+          "size": 134,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 956,
       "type": "directory"
     },
     {
       "path": "day-15",
       "name": "day-15",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-15/real.txt",
+          "name": "real.txt",
+          "size": 10100,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-15/test.txt",
+          "name": "test.txt",
+          "size": 110,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 10210,
       "type": "directory"
     },
     {
       "path": "day-16",
       "name": "day-16",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-16/real.txt",
+          "name": "real.txt",
+          "size": 1399,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-16/test1-literal-packet-2021.txt",
+          "name": "test1-literal-packet-2021.txt",
+          "size": 7,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-16/test2-operator-packet-length-id-0.txt",
+          "name": "test2-operator-packet-length-id-0.txt",
+          "size": 15,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-16/test3-operator-packet-length-id-1.txt",
+          "name": "test3-operator-packet-length-id-1.txt",
+          "size": 15,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-16/test4.txt",
+          "name": "test4.txt",
+          "size": 19,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-16/test5.txt",
+          "name": "test5.txt",
+          "size": 27,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-16/test6.txt",
+          "name": "test6.txt",
+          "size": 31,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-16/test7.txt",
+          "name": "test7.txt",
+          "size": 29,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 1542,
       "type": "directory"
     },
     {
@@ -402,6 +489,6 @@
       "extension": ".json"
     }
   ],
-  "size": 97790,
+  "size": 110613,
   "type": "directory"
 }
