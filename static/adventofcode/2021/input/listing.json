@@ -428,15 +428,129 @@
     {
       "path": "day-17",
       "name": "day-17",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-17/real.txt",
+          "name": "real.txt",
+          "size": 37,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-17/test.txt",
+          "name": "test.txt",
+          "size": 33,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 70,
       "type": "directory"
     },
     {
       "path": "day-18",
       "name": "day-18",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-18/example_homework.txt",
+          "name": "example_homework.txt",
+          "size": 360,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/explode-series.txt",
+          "name": "explode-series.txt",
+          "size": 256,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/real.txt",
+          "name": "real.txt",
+          "size": 3240,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/sum_list_of_numbers_2.txt",
+          "name": "sum_list_of_numbers_2.txt",
+          "size": 38,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/sum_list_of_numbers_2_1.txt",
+          "name": "sum_list_of_numbers_2_1.txt",
+          "size": 34,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/sum_list_of_numbers_4_7.txt",
+          "name": "sum_list_of_numbers_4_7.txt",
+          "size": 58,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/sum_list_of_numbers_4_broken_split.txt",
+          "name": "sum_list_of_numbers_4_broken_split.txt",
+          "size": 54,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/sum_list_of_numbers_4_manually_created_sum.txt",
+          "name": "sum_list_of_numbers_4_manually_created_sum.txt",
+          "size": 78,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/test-1-tree-explode.txt",
+          "name": "test-1-tree-explode.txt",
+          "size": 22,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/test-2-addition.txt",
+          "name": "test-2-addition.txt",
+          "size": 36,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/test-3-expr-with-explode-and-split.txt",
+          "name": "test-3-expr-with-explode-and-split.txt",
+          "size": 39,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/test-3-expr-with-explode.txt",
+          "name": "test-3-expr-with-explode.txt",
+          "size": 38,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/test-3-expr-with-split.txt",
+          "name": "test-3-expr-with-split.txt",
+          "size": 31,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/test.txt",
+          "name": "test.txt",
+          "size": 292,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 4576,
       "type": "directory"
     },
     {
@@ -489,6 +603,6 @@
       "extension": ".json"
     }
   ],
-  "size": 110613,
+  "size": 115259,
   "type": "directory"
 }
