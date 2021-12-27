@@ -548,9 +548,30 @@
           "size": 292,
           "type": "file",
           "extension": ".txt"
+        },
+        {
+          "path": "day-18/test4-before-reduce.txt",
+          "name": "test4-before-reduce.txt",
+          "size": 102,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/test4-broken-reduce.txt",
+          "name": "test4-broken-reduce.txt",
+          "size": 58,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-18/test4-correct-reduce.txt",
+          "name": "test4-correct-reduce.txt",
+          "size": 62,
+          "type": "file",
+          "extension": ".txt"
         }
       ],
-      "size": 4576,
+      "size": 4798,
       "type": "directory"
     },
     {
@@ -603,6 +624,6 @@
       "extension": ".json"
     }
   ],
-  "size": 115259,
+  "size": 115481,
   "type": "directory"
 }
