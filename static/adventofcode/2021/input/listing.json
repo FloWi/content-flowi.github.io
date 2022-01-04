@@ -577,8 +577,23 @@
     {
       "path": "day-19",
       "name": "day-19",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-19/real.txt",
+          "name": "real.txt",
+          "size": 9401,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-19/test.txt",
+          "name": "test.txt",
+          "size": 0,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 9401,
       "type": "directory"
     },
     {
@@ -624,6 +639,6 @@
       "extension": ".json"
     }
   ],
-  "size": 115481,
+  "size": 124882,
   "type": "directory"
 }
