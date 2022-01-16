@@ -588,19 +588,34 @@
         {
           "path": "day-19/test.txt",
           "name": "test.txt",
-          "size": 0,
+          "size": 1790,
           "type": "file",
           "extension": ".txt"
         }
       ],
-      "size": 9401,
+      "size": 11191,
       "type": "directory"
     },
     {
       "path": "day-20",
       "name": "day-20",
-      "children": [],
-      "size": 0,
+      "children": [
+        {
+          "path": "day-20/real.txt",
+          "name": "real.txt",
+          "size": 10614,
+          "type": "file",
+          "extension": ".txt"
+        },
+        {
+          "path": "day-20/test.txt",
+          "name": "test.txt",
+          "size": 0,
+          "type": "file",
+          "extension": ".txt"
+        }
+      ],
+      "size": 10614,
       "type": "directory"
     },
     {
@@ -639,6 +654,6 @@
       "extension": ".json"
     }
   ],
-  "size": 124882,
+  "size": 137286,
   "type": "directory"
 }
