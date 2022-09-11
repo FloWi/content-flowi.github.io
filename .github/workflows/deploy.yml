@@ -38,7 +38,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
-          personal_token: ${{ secrets.API_TOKEN_GITHUB }}
+          deploy_key: ${{ secrets.SSH_DEPLOY_KEY }}
           external_repository: flowi/flowi.github.io
           publish_dir: ./public
           publish_branch: main
