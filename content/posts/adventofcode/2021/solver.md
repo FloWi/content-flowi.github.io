@@ -4,7 +4,7 @@ date = "2021-12-02T13:42:37+01:00"
 author = ""
 authorTwitter = "flowi" #do not include @
 cover = ""
-tags = ["adventofcode", "adventofcode-2021", "scala", "scala-js", "outwatch", "coding-challenge"]
+tags = ["adventofcode", "scala", "scala-js", "outwatch", "coding-challenge"]
 keywords = ["", ""]
 description = "This year I tried to solve the codingchallenge more visual to begin with. So I opted for scalajs using outwatch."
 showFullContent = false
@@ -13,4 +13,4 @@ showFullContent = false
 
 This year I tried to solve the codingchallenge more visual to begin with. So I opted for scalajs using outwatch.
 
-[AoC 20201 scalajs solver](/adventofcode/2021)
+[AoC scalajs solver](/adventofcode)
