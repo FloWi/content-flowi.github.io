@@ -1,5 +1,5 @@
 +++
-title = "Adventofcode 2021 - Solver in scala.js"
+title = "Adventofcode - Solver in scala.js"
 date = "2021-12-02T13:42:37+01:00"
 author = ""
 authorTwitter = "flowi" #do not include @
