@@ -8,14 +8,14 @@ tags = ["adventofcode", "adventofcode-2020", "image", "scala", "coding-challenge
 keywords = ["", ""]
 description = "The task is to assemble an image from different 10x10 tiles. The tiles themselves can be flipped and rotated."
 showFullContent = false
-image_folder = "/adventofcode/2020/day20/"
-aliases = [ "/adventofcode/2020/day20" ] # alias must not end with a /
+image_folder = "/adventofcode-docu/2020/day20/"
+aliases = [ "/adventofcode-docu/2020/day20" ] # alias must not end with a /
 
 +++
 
 # day 20
 
-https://adventofcode.com/2020/day/20
+<https://adventofcode.com/2020/day/20>
 
 The task is to assemble an image from different 10x10 tiles. The tiles themselves can be flipped and rotated.
 
@@ -47,26 +47,26 @@ all 18 possible transformations
 
 ### examples of different transformations yielding the same image
 
-| image                                                                                                                                            | transformations            | hash                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ---------------------------------------- |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_0153045607590105120135150165180195210225_NoOp.png#width_small)                     | NoOp                       | 0153045607590105120135150165180195210225 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_0601201801575135195309015021045105165225_Clockwise270FlipVertical.png#width_small) | Clockwise270, FlipVertical | 0601201801575135195309015021045105165225 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_0601201801575135195309015021045105165225_FlipVerticalClockwise90.png#width_small)  | FlipVertical, Clockwise90  | 0601201801575135195309015021045105165225 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_1801952102251201351501656075901050153045_Clockwise180FlipVertical.png#width_small) | Clockwise180, FlipVertical | 1801952102251201351501656075901050153045 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_1801952102251201351501656075901050153045_FlipHorizontal.png#width_small)           | FlipHorizontal             | 1801952102251201351501656075901050153045 |
+| image                                                                                                                                                 | transformations            | hash                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------------------------------------- |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_0153045607590105120135150165180195210225_NoOp.png#width_small)                     | NoOp                       | 0153045607590105120135150165180195210225 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_0601201801575135195309015021045105165225_Clockwise270FlipVertical.png#width_small) | Clockwise270, FlipVertical | 0601201801575135195309015021045105165225 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_0601201801575135195309015021045105165225_FlipVerticalClockwise90.png#width_small)  | FlipVertical, Clockwise90  | 0601201801575135195309015021045105165225 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_1801952102251201351501656075901050153045_Clockwise180FlipVertical.png#width_small) | Clockwise180, FlipVertical | 1801952102251201351501656075901050153045 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_1801952102251201351501656075901050153045_FlipHorizontal.png#width_small)           | FlipHorizontal             | 1801952102251201351501656075901050153045 |
 
 ### There are only 8 distinct transformations
 
-| image                                                                                                                                           | transformations           | hash                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_0153045607590105120135150165180195210225_NoOp.png#width_small)                    | NoOp                      | 0153045607590105120135150165180195210225 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_4510516522530901502101575135195060120180_Clockwise90.png#width_small)             | Clockwise90               | 4510516522530901502101575135195060120180 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_2252101951801651501351201059075604530150_Clockwise180.png#width_small)            | Clockwise180              | 2252101951801651501351201059075604530150 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_1801206001951357515210150903022516510545_Clockwise270.png#width_small)            | Clockwise270              | 1801206001951357515210150903022516510545 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_2251651054521015090301951357515180120600_Clockwise90FlipVertical.png#width_small) | Clockwise90, FlipVertical | 2251651054521015090301951357515180120600 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_1801952102251201351501656075901050153045_FlipHorizontal.png#width_small)          | FlipHorizontal            | 1801952102251201351501656075901050153045 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_4530150105907560165150135120225210195180_FlipVertical.png#width_small)            | FlipVertical              | 4530150105907560165150135120225210195180 |
-| ![](/adventofcode/2020/day20/image-transformations/image_hash_0601201801575135195309015021045105165225_FlipVerticalClockwise90.png#width_small) | FlipVertical, Clockwise90 | 0601201801575135195309015021045105165225 |
+| image                                                                                                                                                | transformations           | hash                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_0153045607590105120135150165180195210225_NoOp.png#width_small)                    | NoOp                      | 0153045607590105120135150165180195210225 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_4510516522530901502101575135195060120180_Clockwise90.png#width_small)             | Clockwise90               | 4510516522530901502101575135195060120180 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_2252101951801651501351201059075604530150_Clockwise180.png#width_small)            | Clockwise180              | 2252101951801651501351201059075604530150 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_1801206001951357515210150903022516510545_Clockwise270.png#width_small)            | Clockwise270              | 1801206001951357515210150903022516510545 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_2251651054521015090301951357515180120600_Clockwise90FlipVertical.png#width_small) | Clockwise90, FlipVertical | 2251651054521015090301951357515180120600 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_1801952102251201351501656075901050153045_FlipHorizontal.png#width_small)          | FlipHorizontal            | 1801952102251201351501656075901050153045 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_4530150105907560165150135120225210195180_FlipVertical.png#width_small)            | FlipVertical              | 4530150105907560165150135120225210195180 |
+| ![](/adventofcode-docu/2020/day20/image-transformations/image_hash_0601201801575135195309015021045105165225_FlipVerticalClockwise90.png#width_small) | FlipVertical, Clockwise90 | 0601201801575135195309015021045105165225 |
 
 ## image transformations
 
@@ -88,12 +88,12 @@ Tile 1951:
 
 ### tiles as images
 
-| image                                                                                | transformations | image                                                                                           | transformations           |
-| ------------------------------------------------------------------------------------ | --------------- | ----------------------------------------------------------------------------------------------- | ------------------------- |
-| ![](/adventofcode/2020/day20/tile-transformations/1951_NoOp.png#width_small)         | NoOp            | ![](/adventofcode/2020/day20/tile-transformations/1951_Clockwise90FlipVertical.png#width_small) | Clockwise90, FlipVertical |
-| ![](/adventofcode/2020/day20/tile-transformations/1951_Clockwise90.png#width_small)  | Clockwise90     | ![](/adventofcode/2020/day20/tile-transformations/1951_FlipHorizontal.png#width_small)          | FlipHorizontal            |
-| ![](/adventofcode/2020/day20/tile-transformations/1951_Clockwise180.png#width_small) | Clockwise180    | ![](/adventofcode/2020/day20/tile-transformations/1951_FlipVertical.png#width_small)            | FlipVertical              |
-| ![](/adventofcode/2020/day20/tile-transformations/1951_Clockwise270.png#width_small) | Clockwise270    | ![](/adventofcode/2020/day20/tile-transformations/1951_FlipVerticalClockwise90.png#width_small) | FlipVertical, Clockwise90 |
+| image                                                                                     | transformations | image                                                                                                | transformations           |
+| ----------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------- | ------------------------- |
+| ![](/adventofcode-docu/2020/day20/tile-transformations/1951_NoOp.png#width_small)         | NoOp            | ![](/adventofcode-docu/2020/day20/tile-transformations/1951_Clockwise90FlipVertical.png#width_small) | Clockwise90, FlipVertical |
+| ![](/adventofcode-docu/2020/day20/tile-transformations/1951_Clockwise90.png#width_small)  | Clockwise90     | ![](/adventofcode-docu/2020/day20/tile-transformations/1951_FlipHorizontal.png#width_small)          | FlipHorizontal            |
+| ![](/adventofcode-docu/2020/day20/tile-transformations/1951_Clockwise180.png#width_small) | Clockwise180    | ![](/adventofcode-docu/2020/day20/tile-transformations/1951_FlipVertical.png#width_small)            | FlipVertical              |
+| ![](/adventofcode-docu/2020/day20/tile-transformations/1951_Clockwise270.png#width_small) | Clockwise270    | ![](/adventofcode-docu/2020/day20/tile-transformations/1951_FlipVerticalClockwise90.png#width_small) | FlipVertical, Clockwise90 |
 
 ## calculating edges
 
