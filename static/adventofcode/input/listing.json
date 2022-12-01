@@ -705,12 +705,27 @@
         {
           "path": "2022/day-01",
           "name": "day-01",
-          "children": [],
-          "size": 0,
+          "children": [
+            {
+              "path": "2022/day-01/real.txt",
+              "name": "real.txt",
+              "size": 10483,
+              "type": "file",
+              "extension": ".txt"
+            },
+            {
+              "path": "2022/day-01/test.txt",
+              "name": "test.txt",
+              "size": 0,
+              "type": "file",
+              "extension": ".txt"
+            }
+          ],
+          "size": 10483,
           "type": "directory"
         }
       ],
-      "size": 0,
+      "size": 10483,
       "type": "directory"
     },
     {
@@ -721,6 +736,6 @@
       "extension": ".json"
     }
   ],
-  "size": 159709,
+  "size": 170192,
   "type": "directory"
 }
