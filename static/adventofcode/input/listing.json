@@ -760,16 +760,38 @@
             {
               "path": "2022/day-03/test.txt",
               "name": "test.txt",
+              "size": 150,
+              "type": "file",
+              "extension": ".txt"
+            }
+          ],
+          "size": 10146,
+          "type": "directory"
+        },
+        {
+          "path": "2022/day-04",
+          "name": "day-04",
+          "children": [
+            {
+              "path": "2022/day-04/real.txt",
+              "name": "real.txt",
+              "size": 11398,
+              "type": "file",
+              "extension": ".txt"
+            },
+            {
+              "path": "2022/day-04/test.txt",
+              "name": "test.txt",
               "size": 0,
               "type": "file",
               "extension": ".txt"
             }
           ],
-          "size": 9996,
+          "size": 11398,
           "type": "directory"
         }
       ],
-      "size": 30546,
+      "size": 42094,
       "type": "directory"
     },
     {
@@ -780,6 +802,6 @@
       "extension": ".json"
     }
   ],
-  "size": 190255,
+  "size": 201803,
   "type": "directory"
 }
