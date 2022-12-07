@@ -861,9 +861,38 @@
           ],
           "size": 4247,
           "type": "directory"
+        },
+        {
+          "path": "2022/day-07",
+          "name": "day-07",
+          "children": [
+            {
+              "path": "2022/day-07/real.txt",
+              "name": "real.txt",
+              "size": 10630,
+              "type": "file",
+              "extension": ".txt"
+            },
+            {
+              "path": "2022/day-07/test-reddit.txt",
+              "name": "test-reddit.txt",
+              "size": 67,
+              "type": "file",
+              "extension": ".txt"
+            },
+            {
+              "path": "2022/day-07/test.txt",
+              "name": "test.txt",
+              "size": 192,
+              "type": "file",
+              "extension": ".txt"
+            }
+          ],
+          "size": 10889,
+          "type": "directory"
         }
       ],
-      "size": 56435,
+      "size": 67324,
       "type": "directory"
     },
     {
@@ -874,6 +903,6 @@
       "extension": ".json"
     }
   ],
-  "size": 216144,
+  "size": 227033,
   "type": "directory"
 }
