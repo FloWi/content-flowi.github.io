@@ -890,9 +890,67 @@
           ],
           "size": 10889,
           "type": "directory"
+        },
+        {
+          "path": "2022/day-08",
+          "name": "day-08",
+          "children": [
+            {
+              "path": "2022/day-08/real.txt",
+              "name": "real.txt",
+              "size": 9900,
+              "type": "file",
+              "extension": ".txt"
+            },
+            {
+              "path": "2022/day-08/test.txt",
+              "name": "test.txt",
+              "size": 30,
+              "type": "file",
+              "extension": ".txt"
+            }
+          ],
+          "size": 9930,
+          "type": "directory"
+        },
+        {
+          "path": "2022/day-09",
+          "name": "day-09",
+          "children": [
+            {
+              "path": "2022/day-09/real.txt",
+              "name": "real.txt",
+              "size": 8416,
+              "type": "file",
+              "extension": ".txt"
+            },
+            {
+              "path": "2022/day-09/test.txt",
+              "name": "test.txt",
+              "size": 32,
+              "type": "file",
+              "extension": ".txt"
+            },
+            {
+              "path": "2022/day-09/test2.txt",
+              "name": "test2.txt",
+              "size": 36,
+              "type": "file",
+              "extension": ".txt"
+            }
+          ],
+          "size": 8484,
+          "type": "directory"
+        },
+        {
+          "path": "2022/day-10",
+          "name": "day-10",
+          "children": [],
+          "size": 0,
+          "type": "directory"
         }
       ],
-      "size": 67324,
+      "size": 85738,
       "type": "directory"
     },
     {
@@ -903,6 +961,6 @@
       "extension": ".json"
     }
   ],
-  "size": 227033,
+  "size": 245447,
   "type": "directory"
 }
