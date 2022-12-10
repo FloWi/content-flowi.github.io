@@ -945,12 +945,34 @@
         {
           "path": "2022/day-10",
           "name": "day-10",
-          "children": [],
-          "size": 0,
+          "children": [
+            {
+              "path": "2022/day-10/real.txt",
+              "name": "real.txt",
+              "size": 969,
+              "type": "file",
+              "extension": ".txt"
+            },
+            {
+              "path": "2022/day-10/test.txt",
+              "name": "test.txt",
+              "size": 19,
+              "type": "file",
+              "extension": ".txt"
+            },
+            {
+              "path": "2022/day-10/test2.txt",
+              "name": "test2.txt",
+              "size": 979,
+              "type": "file",
+              "extension": ".txt"
+            }
+          ],
+          "size": 1967,
           "type": "directory"
         }
       ],
-      "size": 85738,
+      "size": 87705,
       "type": "directory"
     },
     {
@@ -961,6 +983,6 @@
       "extension": ".json"
     }
   ],
-  "size": 245447,
+  "size": 247414,
   "type": "directory"
 }
