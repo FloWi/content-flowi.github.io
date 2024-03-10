@@ -23,4 +23,10 @@ table {
 
 .container {
   max-width: 50%;
+  
+  @media ($phone) {
+    max-width: 97%;
+  }
 }
+
+
