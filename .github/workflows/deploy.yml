@@ -39,9 +39,9 @@ jobs:
         run: hugo --minify
         
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3.9.3
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.SSH_DEPLOY_KEY }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: flowi/flowi.github.io
           publish_dir: ./public
           publish_branch: main
