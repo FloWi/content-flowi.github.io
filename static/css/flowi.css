@@ -20,3 +20,7 @@ table {
   width: auto;
   /* overflow-x: scroll; */
 }
+
+.container {
+  max-width: 50%;
+}

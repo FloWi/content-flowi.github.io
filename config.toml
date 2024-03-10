@@ -50,7 +50,7 @@ publishDir = "public"
   site = ""
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     languageName = "English"
     title = "Terminal"
     subtitle = "A simple, retro theme for Hugo"
@@ -79,6 +79,10 @@ publishDir = "public"
 
 
 [markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
   [markup.goldmark]
     [markup.goldmark.extensions]
       definitionList = true
