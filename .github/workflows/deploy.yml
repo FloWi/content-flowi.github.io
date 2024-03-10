@@ -30,13 +30,15 @@ jobs:
         run: git submodule update --init --recursive
       
       - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2.4.13
+        uses: peaceiris/actions-hugo
+        with:
+          hugo-version: '0.123.8'
         
       - name: Build
         run: hugo --minify
         
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3.7.3
+        uses: peaceiris/actions-gh-pages
         with:
           deploy_key: ${{ secrets.SSH_DEPLOY_KEY }}
           external_repository: flowi/flowi.github.io
