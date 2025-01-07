@@ -30,9 +30,9 @@ jobs:
         run: git submodule update --init --recursive
       
       - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2.6.0
+        uses: peaceiris/actions-hugo@v3.0.0
         with:
-          hugo-version: '0.123.8'
+          hugo-version: '0.140.2'
           extended: true
         
       - name: Build
